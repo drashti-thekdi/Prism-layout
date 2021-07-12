@@ -292,8 +292,13 @@ body{
         margin-left: 0;
         border-right: none;
         border-bottom: 1px solid gray;
+        
       
         
+    }
+
+    .left button{
+       margin-bottom: 20px;
     }
 
     .middle-part .right{
@@ -301,6 +306,51 @@ body{
        
     }
 
+   
+
+    .box1{
+    
+        width: 100%;
+        margin-left: 0;
+        padding-right: 0;
+       
+        
+    }
+    .box1 img{
+       width: 100%;
+     
+       margin-right: 0px;
+    }
+
+    .box1 h1{
+      position: relative;
+      top: 10;
+    }
+    .box1 p{
+    
+      position: relative;
+      top: 10;
+        
+    }
+    .box1 button{
+      
+        margin-bottom: 20px;
+        
+    }
+    
+    .big{
+      
+        margin-left:0;
+        
+    }
+    
+    .whitepart .left{
+        width: 100%;
+        margin-left: 0px;
+        border-right:none;
+       
+    }
+    
 
     .whitepart .right p{
    
@@ -315,6 +365,157 @@ body{
        margin-left: 5px;
     
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media only screen and (max-width:600px){
+
+
+    .header-text{
+      
+        width: 100%;
+        border-bottom: 1px solid gray;
+        margin-left: 0;
+       
+      }
+
+      .header-text h1{
+       
+        border-right: none;
+        }
+
+      .header-text2{
+        
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .middle-part .left{
+        width: 100%;
+        margin-left: 0;
+        border-right: none;
+        border-bottom: 1px solid gray;
+        
+      
+        
+    }
+
+    .left h1{
+        font-size: 15px;
+      
+    }
+    .left p{
+      
+        padding-right:0px;
+        text-align: justify;
+        
+    }
+
+    .left button{
+       margin-bottom: 20px;
+    }
+
+    .middle-part .right{
+        width: 100%;
+       
+    }
+    .right p{
+        font-size: 11px;
+        
+       
+    }
+    .fa{
+       
+        padding-right: 10px;
+    }
+
+    .box1{
+    
+        width: 100%;
+        margin-left: 0;
+        padding-right: 0;
+       
+        
+    }
+    .box1 img{
+       width: 100%;
+     
+       margin-right: 0px;
+    }
+
+    .box1 h1{
+      position: relative;
+      top: 10;
+    }
+    .box1 p{
+    
+      position: relative;
+      top: 10;
+        
+    }
+    .box1 button{
+      
+        margin-bottom: 20px;
+        
+    }
+    
+    .big{
+      
+        margin-left:0;
+        
+    }
+    
+    .whitepart .left{
+        width: 100%;
+        margin-left: 0px;
+        border-right:none;
+       
+    }
+    
+
+    .whitepart .right p{
+   
+      
+        margin-left: 0;
+        line-height: 40px;
+       
+        
+    }
+    .whitepart .right .fa{
+    
+       margin-left: 5px;
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
